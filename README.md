@@ -1,15 +1,12 @@
-# Fake-news-detection-using-machine-learning-
-# AI besed Fake-news-detection
-#  Fake News Detection Using Machine Learning
+# Fake-news-detection-using-machine-learning-🚨
 
 ##  Project Information
 
-**Project Title:** Fake News Detection Using Machine Learning
+**Project Title:** Fake News Detection Using Machine Learning🌐
 **Developed By:** Shreya Agarwal
 
----
 
-## 📖 Project Description
+##  Project Description
 
 The **Fake News Detection System** is a Machine Learning-based project that identifies whether a given news article is **real or fake** using Natural Language Processing (NLP) techniques.
 
@@ -17,18 +14,17 @@ In today's digital era, the rapid spread of misinformation through social media 
 
 The system helps users verify the authenticity of news articles and reduces the impact of misleading information.
 
----
 
-## 🎯 Objective
+
+##  Objective
 
 * To develop an AI-based system for detecting fake and real news.
 * To apply Natural Language Processing techniques for text analysis.
 * To train a machine learning model that can classify unseen news articles accurately.
 * To provide quick and automated fake news verification.
 
----
 
-## ⚙️ Methodology
+##  Methodology
 
 The project follows these steps:
 
@@ -55,10 +51,10 @@ The project follows these steps:
 
    * The trained model predicts whether a new article is:
 
-     * ✅ Real News
-     * ❌ Fake News
+     *  Real News
+     *  Fake News
 
----
+
 
 ## 📊 Data Visualization
 
@@ -68,7 +64,7 @@ To understand the dataset:
 * Word frequency patterns were visualized.
 * Data analysis helped identify important features from news content.
 
----
+
 
 ## 🤖 Machine Learning Model
 
@@ -78,27 +74,7 @@ Algorithms used:
 * (Optional: Passive Aggressive Classifier / Naive Bayes)
 
 The model learns patterns from previously labeled news articles and predicts the authenticity of new articles.
-
----
-
-## 🚀 Results
-
-The Fake News Detection System successfully classifies news articles into:
-
-✅ Real News
-❌ Fake News
-
-### System Provides:
-
-* News classification result
-* Prediction accuracy
-* Automated verification of text-based news
-
-The model performs effectively on unseen data and demonstrates the practical application of **Machine Learning and NLP for misinformation detection**.
-
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Machine Learning
@@ -109,43 +85,12 @@ The model performs effectively on unseen data and demonstrates the practical app
 * Matplotlib
 * TF-IDF Vectorizer
 * Logistic Regression
-* Streamlit (for Web Interface)
+* Streamlit 
 
----
+##  Results
 
-## 📂 Project Structure
+<img width="950" height="531" alt="image" src="https://github.com/user-attachments/assets/47df224f-a7d8-432b-ad56-170e97481e1b" />
 
-```
-Fake-News-Detection-ML/
-│
-├── dataset/
-│   ├── Fake.csv
-│   └── True.csv
-│
-├── preprocessing.py
-├── model_training.py
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 🔮 Future Improvements
-
-* Use advanced Deep Learning models like LSTM and Transformers.
-* Add real-time news verification using APIs.
-* Support multiple languages.
-* Deploy the model as a full-scale web application.
-
----
-
-## 📸 Project Screenshots
-
-(Add your model output screenshots here)
-
----
-
-## ⭐ Conclusion
+##  Conclusion
 
 The Fake News Detection System demonstrates how Machine Learning and NLP can be used to combat misinformation by automatically identifying unreliable news content and helping users make informed decisions.
